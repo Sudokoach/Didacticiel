@@ -1,4 +1,3 @@
 # Didacticiel
-Ce répertoire contient les fichiers du projet de didacticiel du SUDOKU.
-La réalisation de ce projet s'appuie sur l'appli Sudokoach (appli de résolution d'une grille de Sudoku)
-L'appli Sudokoach est disponible sur Google Play Store.
+Ce répertoire contient les fichiers du projet de didacticiel de programmation en JAVA des algorithmes de résolution du SUDOKU.
+La réalisation de ce projet s'appuie sur l'appli Sudokoach, qui est disponible sur Google Play Store.
